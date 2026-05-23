@@ -1,0 +1,1 @@
+===== STUDENT REPORT =====\nID: 1\nName: siddhu\nDepartment: cse\nEmail: siddardha0929@gmail.com\nMarks: 99.0\nAttendance: 98.0%\nGrade: A+\n
